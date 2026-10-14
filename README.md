@@ -29,7 +29,7 @@ A responsive website created to help UMKM showcase products and build an online 
 
 **Tech used:** HTML, CSS, JavaScript, Bootstrap
 
-> Add your project repository link here after you upload it.
+> [View UMKM Website Repository](https://github.com/jooovn/UAS)
 
 ## Goals
 
