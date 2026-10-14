@@ -1,43 +1,68 @@
-# jooovn
+<div align="center">
 
-My Personal Developer Portofolio
+# Hi 👋, I'm Jooovn
 
-# Hi, I'm Jooovn 👋
+### Informatics Engineering Student | Web Developer | Learning AI & Machine Learning
 
-🎓 Informatics Engineering student — Semester 5  
-💻 Interested in Web Development, Software Development, and AI/ML  
-🌱 Currently learning Python for Artificial Intelligence and Machine Learning
+</div>
 
-## About Me
+## 👨‍💻 About Me
 
-I am an Informatics Engineering student who enjoys building useful digital solutions. I have experience with C#, C++, Java, and web development using HTML, CSS, JavaScript, and Bootstrap.
+- 🎓 Informatics Engineering student, Semester 5
+- 🌐 Experienced in building websites with HTML, CSS, JavaScript, and Bootstrap
+- 💡 Familiar with C#, C++, and Java
+- 🌱 Currently learning Python, Artificial Intelligence, and Machine Learning
+- 🚀 Open to learning through real projects and collaboration
 
-I am currently developing my skills in Python, data analysis, and Machine Learning.
+## 🌐 Connect with Me
 
-## Tech Stack
+[![GitHub](https://img.shields.io/badge/GitHub-jooovn-181717?style=for-the-badge&logo=github)](https://github.com/jooovn)
 
-- **Programming Languages:** C#, C++, Java, JavaScript, Python
-- **Web Development:** HTML, CSS, Bootstrap
-- **Tools:** Git, GitHub, Visual Studio Code
-- **Currently Learning:** Python, Artificial Intelligence, Machine Learning
+ <!-- Add these only after you have the real links: -->
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK) -->
 
-## Featured Project
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:jovanmaranda02@gmail.com)
 
-### 🛍️ UMKM Website
+## 🛠️ Tech Stack
 
-A responsive website created to help UMKM showcase products and build an online presence.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,cs,java,python,git,github,vscode" />
+</p>
 
-**Tech used:** HTML, CSS, JavaScript, Bootstrap
+## ⭐ Featured Project
 
-> [View UMKM Website Repository](https://github.com/jooovn/UAS)
+### 🛍️ Website UMKM
 
-## Goals
+Website untuk membantu UMKM menampilkan informasi bisnis dan produk secara lebih menarik.
 
-- Build useful web applications
-- Create a Python-based AI/ML project
-- Continuously improve through real projects
+**Built with:** HTML, CSS, JavaScript, Bootstrap
 
-## Connect With Me
+[![View Repository](https://img.shields.io/badge/View%20Project-UMKM%20Website-2ea44f?style=for-the-badge&logo=github)](https://github.com/jooovn/UAS)
 
-- GitHub: [@jooovn](https://github.com/jooovn)
-- Email: `your-email@example.com`
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jooovn&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jooovn&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jooovn&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📈 Contribution Graph
+
+[![Jooovn's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jooovn&theme=tokyo-night&hide_border=true)](https://github.com/jooovn)
+
+## 🎯 Current Goals
+
+- Build more responsive web projects
+- Create my first Python data-analysis project
+- Learn the fundamentals of Machine Learning
+- Improve my GitHub portfolio through consistent commits
+
+<div align="center">
+
+_“Learning by building, improving through every project.”_
+
+</div>
