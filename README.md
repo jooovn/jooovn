@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Jooovn
+# Haloo, I'm Jooovn
 
 ### Informatics Engineering Student | Web Developer | Learning AI & Machine Learning
 
@@ -52,7 +52,7 @@ Website untuk membantu UMKM menampilkan informasi bisnis dan produk secara lebih
 
 ## 📈 Contribution Graph
 
-[![Jooovn's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jooovn&theme=tokyo-night&hide_border=true)](https://github.com/jooovn)
+<!-- [![Jooovn's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jooovn&theme=tokyo-night&hide_border=true)](https://github.com/jooovn) -->
 
 ## 🎯 Current Goals
 
