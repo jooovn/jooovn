@@ -10,9 +10,15 @@
 
 - 🎓 Informatics Engineering student, Semester 5
 - 🌐 Experienced in building websites with HTML, CSS, JavaScript, and Bootstrap
-- 💡 Familiar with C#, C++, and Java
+- 💡 Familiar with HTML, CSS, and Javascript
 - 🌱 Currently learning Python, Artificial Intelligence, and Machine Learning
 - 🚀 Open to learning through real projects and collaboration
+
+## 🏆 Achievements & Activities
+
+- 🥇 Juara 1 Catur POM -- 2025
+- 🏅 Juara 4 fashion Show Top Model -- 2023
+- 👥 Bendahara LMKM & Bina Akrab -- 2025
 
 ## 🌐 Connect with Me
 
